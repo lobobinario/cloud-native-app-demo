@@ -1,5 +1,7 @@
 #  Course application for the course "Serverless en Español con AWS y AWS CDK"
 
+> **Note:** This repository is a fork of [mavi888/cdk-pizzeria-demo](https://github.com/mavi888/cdk-pizzeria-demo).
+
 Infrastructure as code framework used: Serverless Framework AWS Services used: AWS Lambda, API Gateway, SQS, DynamoDB
 
 ## Summary of the demo
